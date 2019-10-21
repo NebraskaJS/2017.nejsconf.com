@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>NEJS CONF 2017</title>
+    <link>https://2017.nejsconf.com/</link>
+    <description>Recent content on NEJS CONF 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://2017.nejsconf.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agape Red</title>
+      <link>https://2017.nejsconf.com/sponsors/agape-red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/agape-red/</guid>
+      <description>We are an agile team of developers building great software with great people.</description>
+    </item>
+    
+    <item>
+      <title>C2FO</title>
+      <link>https://2017.nejsconf.com/sponsors/c2fo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/c2fo/</guid>
+      <description>The world&amp;rsquo;s market for working capital. C2FO’s platform intuitively finds opportunities in real-time for buyers and suppliers to collaborate on early payment. C2FO awards early payment at a rate that&amp;rsquo;s optimal for each unique supplier while achieving the additional target income for each buyer. C2FO creates a win for both companies.</description>
+    </item>
+    
+    <item>
+      <title>Code of Conduct</title>
+      <link>https://2017.nejsconf.com/code-of-conduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/code-of-conduct/</guid>
+      <description>All attendees, speakers, sponsors and volunteers at our conference are required to agree with the following code of conduct. Organizers will enforce this code throughout the event. We expect cooperation from all participants to help ensure a safe environment for everybody.
+Need Help? Please send all questions, comments, and concerns to Matt Steele (matt@nejsconf.com).
+Reporting A Violation To report a violation of the Code of Conduct, please speak to any organizer, email organizers@nejsconf.</description>
+    </item>
+    
+    <item>
+      <title>Cory House</title>
+      <link>https://2017.nejsconf.com/speakers/cory-house/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/cory-house/</guid>
+      <description>Three ground-breaking shifts are occurring in the world of JavaScript: Package management, starter kits, and reusable components. These innovations are coalescing to fuel a revolution in the way we write JS. In this session, you&amp;rsquo;ll learn why you can no longer afford to build JavaScript in the old paradigm, and we&amp;rsquo;ll explore how you can make the shift to join the reusable revolution.</description>
+    </item>
+    
+    <item>
+      <title>Divya Sasidharan</title>
+      <link>https://2017.nejsconf.com/speakers/divya-sasidharan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/divya-sasidharan/</guid>
+      <description>Handling state through traditional DOM Manipulation is a costly process that has been a major source of complexity in user interface (UI) development. Virtual DOM offers a solution to this challenge, allowing a reference to the DOM so UI changes are made more conservatively. This concept is widely used in modern web frameworks and has changed the way web developers interact with the DOM. We will explore the basic underlying components of a virtual DOM, examine the intricacies of what makes it more performant, and cover strategies to optimize how we work with the DOM.</description>
+    </item>
+    
+    <item>
+      <title>Farm Credit Services of America</title>
+      <link>https://2017.nejsconf.com/sponsors/farm-credit-services-of-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/farm-credit-services-of-america/</guid>
+      <description>Farm Credit Services of America supports rural communities and agriculture with reliable, consistent credit and financial services, today and tomorrow.
+Farm Credit Services of America uses technology as a core means to achieve strategy. In an agile environment, the company leverages contemporary, leading technologies when building custom solutions for customers and teammates. These technologies include Visual Studio, C#, JavaScript, AngularJS, Java (on Android), Swift, and others. Continuous delivery is implemented via Visual Studio Team Services (with Git) and Octopus Deploy which provides a dependable and repeatable process for deploying projects.</description>
+    </item>
+    
+    <item>
+      <title>George Mandis</title>
+      <link>https://2017.nejsconf.com/speakers/george-mandis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/george-mandis/</guid>
+      <description>Tiny computers such as the RaspberryPi, Arduino and C.H.I.P. have finally reached a level of performance and affordability that makes hardware experimentation accessible to everyone. At the same time, JavaScript has emerged as the lingua franca of web programming and can be found in many places beyond just the browser.
+What if I told you there was a mature protocol that’s been around since 1983 and was uniquely poised to take advantage of this development?</description>
+    </item>
+    
+    <item>
+      <title>Jessica Codr</title>
+      <link>https://2017.nejsconf.com/speakers/jessica-codr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/jessica-codr/</guid>
+      <description>Code is a communication mechanism. It provides a way for you, the programmer, to tell a machine what to do. It also provides a way for you to tell an engaging and inspiring story to programmers who will read your code in the future. The story of your code is a tale of your intentions, ideally told in a way that others will understand, enjoy reading, and feel empowered to expand upon.</description>
+    </item>
+    
+    <item>
+      <title>Jonathan Mills</title>
+      <link>https://2017.nejsconf.com/speakers/jonathan-mills/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/jonathan-mills/</guid>
+      <description>With modern JavaScript, we have seen a rise in ‘functional style’ javascript popularity. This style introduces a whole slew of terms and patterns that have different connotations depending on who you are talking to. Phrases like purity, higher order functions, and currying are thrown around all over the place. What does ‘no side effects’ mean, and what about when you need to get something done? And what in the world is a ‘monad’?</description>
+    </item>
+    
+    <item>
+      <title>Kim Crayton</title>
+      <link>https://2017.nejsconf.com/speakers/kim-crayton/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/kim-crayton/</guid>
+      <description>There is an ongoing mantra within the developer community: that there are far more jobs available then programmers to fill them. Which should be an indication as to the wonderful potential for both business and those learning to code. Yet what often follows such statements are not words of joy but rather a list of frustrations related to the difficulty in finding and retaining enough skilled developers to fill these positions.</description>
+    </item>
+    
+    <item>
+      <title>License</title>
+      <link>https://2017.nejsconf.com/license/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/license/</guid>
+      <description>The MIT License (MIT)
+Copyright &amp;copy; 2017 Nebraska JavaScript, LLC
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the &amp;ldquo;Software&amp;rdquo;), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:</description>
+    </item>
+    
+    <item>
+      <title>Lon Ingram</title>
+      <link>https://2017.nejsconf.com/speakers/lon-ingram/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/lon-ingram/</guid>
+      <description>With the rise of the mobile web, speed has become crucial to success. Users won’t wait around for slow-loading pages and search engines are now punishing sluggish sites. There’s a wealth of ideas out there for cranking up performance, but how do you know where to start? What if you work for days to ship an optimization that doesn’t really pay off? In this talk, you’ll learn how to experiment and fail fast.</description>
+    </item>
+    
+    <item>
+      <title>Lucas Fernandes da Costa</title>
+      <link>https://2017.nejsconf.com/speakers/lucas-fernandes-da-costa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/lucas-fernandes-da-costa/</guid>
+      <description>The whole reason of JS Fatigue is not the huge amount of modules we’ve got available, the real issue is the mindset we have when writing code. With an average of 764 new packages a day and lots of new technologies appearing it seems impossible to keep up with the insane velocity things happen in the JavaScript ecosystem, but actually you don’t necessarily need to.
+In this talk, I won’t talk about the language itself and I won’t talk about frameworks.</description>
+    </item>
+    
+    <item>
+      <title>Organizers</title>
+      <link>https://2017.nejsconf.com/team/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/team/</guid>
+      <description>  Sandi Barr@sandikbarr
+     Zach Leatherman@zachleat
+     Nick Nisi@nicknisi
+     Lindsey Pfeifer@l_pfeifer18
+     Jerod Santo@jerodsanto
+     Matt Steele@mattdsteele
+     John Hobbs@jmhobbs
+    </description>
+    </item>
+    
+    <item>
+      <title>RetailMeNot</title>
+      <link>https://2017.nejsconf.com/sponsors/retailmenot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/retailmenot/</guid>
+      <description>RetailMeNot is the ultimate savings destination, connecting millions of consumers to the retailers, brands and restaurants they love—both online and in-store. With a presence in North America, the United Kingdom and France, we help drive engagement and sales for more than 70,000 brands internationally.
+From the best digital promotions and discount eGift cards to quick cash back offers and dining discounts, our teams are dedicated to innovating new solutions that drive ROI for our brand partners, satisfy our consumers and create the best workplace environment for our employees.</description>
+    </item>
+    
+    <item>
+      <title>Sarah Higley</title>
+      <link>https://2017.nejsconf.com/speakers/sarah-higley/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/speakers/sarah-higley/</guid>
+      <description>People have a tendency to assume everyone navigates the world in the same way they do: on two legs, responding to visual cues, hearing speech, reading emotion. For developers this often means web accessibility comes as an afterthought, if at all. But we can do better! Keyboard accessibility affects a broad range of users with vision and mobility impairments, and they still deserve to be able to get spied on by Uber, overshare on social media, and create cat memes.</description>
+    </item>
+    
+    <item>
+      <title>SitePen</title>
+      <link>https://2017.nejsconf.com/sponsors/sitepen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/sitepen/</guid>
+      <description>SitePen pioneered Enterprise JavaScript by creating a first-of-its-kind open source JavaScript framework that scales and sustains some of the world’s largest web applications - and this before the advent of the modern browser. Today, SitePen continues to engineer performance-driven apps for companies like IBM, Intuit &amp;amp; Marriott, maintaining our foothold at the forefront of the modern web. Expect our deliverables to contain experience-based solutions, the highest quality code, and a demonstrated commitment to your success.</description>
+    </item>
+    
+    <item>
+      <title>Supportworks</title>
+      <link>https://2017.nejsconf.com/sponsors/supportworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/supportworks/</guid>
+      <description>Supportworks designs, manufactures and supplies products to contracting companies across the US, Canada and other international locations. But that’s only part of the story!
+In less than a decade, we’ve become one of the fastest growing companies in the Omaha metro area. We’ve built a strong, talented technology team by providing team members opportunities to grow, take ownership and expand skills.
+We operate on the principle that More Is Possible, and back that up by providing radical business supports to our dealers across North America.</description>
+    </item>
+    
+  </channel>
+</rss>

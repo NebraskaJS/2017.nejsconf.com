@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sponsors on NEJS CONF 2017</title>
+    <link>https://2017.nejsconf.com/sponsors/</link>
+    <description>Recent content in Sponsors on NEJS CONF 2017</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://2017.nejsconf.com/sponsors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Agape Red</title>
+      <link>https://2017.nejsconf.com/sponsors/agape-red/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/agape-red/</guid>
+      <description>We are an agile team of developers building great software with great people.</description>
+    </item>
+    
+    <item>
+      <title>C2FO</title>
+      <link>https://2017.nejsconf.com/sponsors/c2fo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/c2fo/</guid>
+      <description>The world&amp;rsquo;s market for working capital. C2FO’s platform intuitively finds opportunities in real-time for buyers and suppliers to collaborate on early payment. C2FO awards early payment at a rate that&amp;rsquo;s optimal for each unique supplier while achieving the additional target income for each buyer. C2FO creates a win for both companies.</description>
+    </item>
+    
+    <item>
+      <title>Farm Credit Services of America</title>
+      <link>https://2017.nejsconf.com/sponsors/farm-credit-services-of-america/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/farm-credit-services-of-america/</guid>
+      <description>Farm Credit Services of America supports rural communities and agriculture with reliable, consistent credit and financial services, today and tomorrow.
+Farm Credit Services of America uses technology as a core means to achieve strategy. In an agile environment, the company leverages contemporary, leading technologies when building custom solutions for customers and teammates. These technologies include Visual Studio, C#, JavaScript, AngularJS, Java (on Android), Swift, and others. Continuous delivery is implemented via Visual Studio Team Services (with Git) and Octopus Deploy which provides a dependable and repeatable process for deploying projects.</description>
+    </item>
+    
+    <item>
+      <title>RetailMeNot</title>
+      <link>https://2017.nejsconf.com/sponsors/retailmenot/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/retailmenot/</guid>
+      <description>RetailMeNot is the ultimate savings destination, connecting millions of consumers to the retailers, brands and restaurants they love—both online and in-store. With a presence in North America, the United Kingdom and France, we help drive engagement and sales for more than 70,000 brands internationally.
+From the best digital promotions and discount eGift cards to quick cash back offers and dining discounts, our teams are dedicated to innovating new solutions that drive ROI for our brand partners, satisfy our consumers and create the best workplace environment for our employees.</description>
+    </item>
+    
+    <item>
+      <title>SitePen</title>
+      <link>https://2017.nejsconf.com/sponsors/sitepen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/sitepen/</guid>
+      <description>SitePen pioneered Enterprise JavaScript by creating a first-of-its-kind open source JavaScript framework that scales and sustains some of the world’s largest web applications - and this before the advent of the modern browser. Today, SitePen continues to engineer performance-driven apps for companies like IBM, Intuit &amp;amp; Marriott, maintaining our foothold at the forefront of the modern web. Expect our deliverables to contain experience-based solutions, the highest quality code, and a demonstrated commitment to your success.</description>
+    </item>
+    
+    <item>
+      <title>Supportworks</title>
+      <link>https://2017.nejsconf.com/sponsors/supportworks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://2017.nejsconf.com/sponsors/supportworks/</guid>
+      <description>Supportworks designs, manufactures and supplies products to contracting companies across the US, Canada and other international locations. But that’s only part of the story!
+In less than a decade, we’ve become one of the fastest growing companies in the Omaha metro area. We’ve built a strong, talented technology team by providing team members opportunities to grow, take ownership and expand skills.
+We operate on the principle that More Is Possible, and back that up by providing radical business supports to our dealers across North America.</description>
+    </item>
+    
+  </channel>
+</rss>
